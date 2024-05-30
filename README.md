@@ -37,8 +37,3 @@
 
  Last Updated on 30/05/2024 05:13:51 UTC
 <!--END_SECTION:waka-->
-
-![JARVISMindEngineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JARVISMindEngineer&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JARVISMindEngineer&layout=compact)
-
