@@ -18,6 +18,22 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 15/06/2024 16:20:32 UTC
+```text
+🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+🌆 Daytime                23 commits          ██████████████░░░░░░░░░░░   57.50 % 
+🌃 Evening                16 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+```
+
+
+ Last Updated on 16/06/2024 16:18:54 UTC
 <!--END_SECTION:waka-->
