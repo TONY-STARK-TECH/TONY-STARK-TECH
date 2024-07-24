@@ -16,26 +16,10 @@
 💬 [WebSite](https://fastx-ai.com/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-🌆 Daytime                68 commits          █████████████░░░░░░░░░░░░   50.75 % 
-🌃 Evening                53 commits          ██████████░░░░░░░░░░░░░░░   39.55 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-```
-
-
- Last Updated on 23/07/2024 16:23:45 UTC
+ Last Updated on 24/07/2024 16:21:40 UTC
 <!--END_SECTION:waka-->
 
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)
