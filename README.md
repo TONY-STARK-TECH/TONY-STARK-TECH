@@ -18,8 +18,24 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 24/07/2024 16:21:40 UTC
+```text
+🌞 Morning                17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+🌆 Daytime                76 commits          █████████████░░░░░░░░░░░░   50.67 % 
+🌃 Evening                57 commits          ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+```
+
+
+ Last Updated on 25/07/2024 16:21:45 UTC
 <!--END_SECTION:waka-->
 
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)
